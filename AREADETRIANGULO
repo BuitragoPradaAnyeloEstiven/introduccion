@@ -1,0 +1,10 @@
+ROCESO AREATRIAMGULO
+  ESCRIBIR "programa que calcula el area de un triangulo"
+  ESCRIBIR "."
+  ESCRIBIR "."
+  ESCRIBIR "digite el valor de la base"
+  LEER base 
+  ESCRIBIR "digite el valor de la altura"
+  LEER altura 
+  resultado= (base * altura)/2
+  ESCRIBIR " si el triangulo de base ", base , " y de altura " , altura , " tiene un area de " ,resultado
