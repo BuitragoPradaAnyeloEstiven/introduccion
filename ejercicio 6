@@ -1,0 +1,11 @@
+PROCESO ejercicio 6 
+definir n1 , n2 , n3 , media COMO REAL
+ESCRIBIR " ingrese el primer numero "
+leer n1 
+ESCRIBIR " ingrese el segundo numero "
+LEER n2 
+ESCRIBIR " ingrese el tercer numero "
+LEER n3 
+media = ( n1 + n2 + n3 ) / 3
+ESCRIBIR " la medida es " , media 
+FINPROCESO
