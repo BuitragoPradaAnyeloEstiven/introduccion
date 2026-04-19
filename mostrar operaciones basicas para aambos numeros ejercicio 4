@@ -1,0 +1,11 @@
+PROCESO ejercicio 4 
+DEFINIR n1 , n2 COMO REAL
+ESCRIBIR " ingrese el primer numero "
+LEER n1 
+ESCRIBIR " ingrese el segundo numero "
+LEER n2 
+ESCRIBIR " suma " , n1 + n2 
+ESCRIBIR " resta " ,  n1 - n2 
+ESCRIBIR " multiplicacion " , n1 * n2 
+ESCRIBIR " divicion " , n1 / n2 
+FINPROCESO
